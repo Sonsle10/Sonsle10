@@ -11,3 +11,6 @@
 ## Jege valgte IM fordi det var det eneste som hadde noe med IT å gjøre som ikke hadde 100 år med mer skole.
 
 ## jeg håper å lære om hvordan man kan kode og hvordan man bruker en pc og fårstår en pc
+
+
+# https://www.gjennestadvgs.no    det er linken til gjennestad nice
