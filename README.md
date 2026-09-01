@@ -13,4 +13,4 @@
 ### Jeg håper å lære om hvordan man kan kode og hvordan man bruker en pc og fårstår en pc
 
 
-#### https://www.gjennestadvgs.no    Dette er linken til Gjennestad
+##### https://www.gjennestadvgs.no    #Dette er linken til Gjennestad
