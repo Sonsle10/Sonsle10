@@ -1,16 +1,16 @@
-## Hi there 👋
+# Sondre
 
-<!--
-**Sonsle10/Sonsle10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Hei verden
 
-Here are some ideas to get you started:
+### Jeg heter Sondre og liker å spille rocket league og minecraft
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  
+
+### Mine inttereser er video spill, og å henge med venner
+
+### Jeg valgte IM fordi det var det eneste som hadde noe med IT å gjøre som ikke hadde 100 år med mer skole.
+
+### Jeg håper å lære om hvordan man kan kode og hvordan man bruker en pc og fårstår en pc
+
+
+##### https://www.gjennestadvgs.no    #Dette er linken til Gjennestad
